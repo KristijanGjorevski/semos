@@ -134,8 +134,3 @@ if(isset($_GET["edit"]) && $_GET["edit"] != ""){
         <button type="submit" name="delete" value="delete">Delete user by email</button>
         <br>
     </form>
-
-<br /><b>Notice</b>:  Undefined index: firstname in <b>C:\Users\Kiko\WebstormProjects\cwp-2017\domasna\Php\Blog1\controllers\users.php</b> on line <b>84</b><br />
-<br /><b>Notice</b>:  Undefined index: lastname in <b>C:\Users\Kiko\WebstormProjects\cwp-2017\domasna\Php\Blog1\controllers\users.php</b> on line <b>88</b><br />
-<br /><b>Notice</b>:  Undefined index: lastname in <b>C:\Users\Kiko\WebstormProjects\cwp-2017\domasna\Php\Blog1\controllers\users.php</b> on line <b>88</b><br />
-<br /><b>Notice</b>:  Undefined index: email in <b>C:\Users\Kiko\WebstormProjects\cwp-2017\domasna\Php\Blog1\controllers\users.php</b> on line <b>92</b><br />
