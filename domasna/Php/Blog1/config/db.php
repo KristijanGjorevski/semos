@@ -4,7 +4,7 @@ class DB{
 
     private static $host = "127.0.0.1";
     private static $username = "root";
-    private static $password = "OXdPv08m04RhO6Cg";
+    private static $password = "";
     private static $db_name = "blog";
     private static $instance;
 
