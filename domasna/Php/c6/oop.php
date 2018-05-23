@@ -264,11 +264,6 @@ class Knife extends Weapon{
 
 }
 
-
-
-
-
-
 ?>
 
 
